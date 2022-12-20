@@ -277,6 +277,14 @@ right: 58%;
   pointer-events: all;
 }
 
+@media (max-width: 1920px) {
+   .panel .content {
+      transform: translate(39px, -347px);
+     }
+     .container.sign-up-mode .right-panel .image, .container.sign-up-mode .right-panel .content {
+    transform: translate(-67px,-320px);
+}
+}
 @media (max-width: 870px) {
   .container {
     min-height: 800px;
