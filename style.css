@@ -398,6 +398,9 @@ main.sign-up-mode .carousel {
     max-width: 550px;
     overflow: hidden;
   }
+  .formTrue {
+    transform: translateX(-14px);
+}
 
   .inner-rectangle {
     position: static;
@@ -488,4 +491,7 @@ main.sign-up-mode .carousel {
   form {
     padding: 1rem 2rem 1.5rem;
   }
+  .formTrue {
+    transform: translateX(-14px);
+}
 }
