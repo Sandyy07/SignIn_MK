@@ -389,7 +389,9 @@ main.sign-up-mode .carousel {
   color: #e24d75;
   border-color: #e24d75;
 }
-
+.formTrue {
+    transform: translateX(-63px);
+}
 @media (max-width: 850px) {
   .rectangle {
     height: auto;
