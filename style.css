@@ -122,7 +122,7 @@ form.sign-up-form {
 }
 
 .input-field {
-  max-width: 380px;
+  max-width: 238px;
   width: 100%;
   background-color: #f0f0f0;
   margin: 10px 0;
@@ -179,7 +179,7 @@ label {
 }
 
 .sign-btn {
-  width: 260px;
+  width: 238px;
 
   outline: none;
   height: 55px;
